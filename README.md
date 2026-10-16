@@ -1,5 +1,3 @@
-![cover](images/cover.png)
-
 # Azerbaijan New-Car Market: Turbo.az Listings Analysis
 
 What 2,792 active new-car listings on Turbo.az say about Azerbaijan's car market: who sells, at what price, how official dealers compare with other dealers, and how sellers market their cars. Every headline number comes with a confidence interval or a test.
