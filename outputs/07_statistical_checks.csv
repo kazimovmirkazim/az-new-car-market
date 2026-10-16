@@ -1,0 +1,11 @@
+check,estimate,ci_low,ci_high,p_value,n
+Chinese brands' share of listings (all listings),66.2607,64.4856,67.9912,,2792
+Battery-electric share (all listings),3.4742,2.8563,4.22,,2792
+Top-15 models' share of listings (all listings),49.9642,,,,2792
+"Paid promotion: official minus other dealers, pp (all listings)",34.1695,29.7611,38.578,0.0,2413
+"Credit offered: official minus other dealers, pp (all listings)",22.82,18.3984,27.2417,0.0,2413
+Chinese brands' share of listings (deduplicated),64.7702,62.7883,66.7026,,2285
+Battery-electric share (deduplicated),3.4573,2.7829,4.288,,2285
+Top-15 models' share of listings (deduplicated),51.2473,,,,2285
+"Paid promotion: official minus other dealers, pp (deduplicated)",34.5693,29.4004,39.7383,0.0,1985
+"Credit offered: official minus other dealers, pp (deduplicated)",18.8702,13.6077,24.1327,0.0,1985

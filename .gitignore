@@ -1,0 +1,4 @@
+# Raw scraped listings are not published (see README: Data and ethics)
+data/
+__pycache__/
+.venv/

@@ -1,0 +1,16 @@
+model_key,naive_gap_pct,variant,like_for_like_gap_pct,ci_low,ci_high,p_value,official_n,other_n,significant,p_holm
+Soueast S05,-17.544,Soueast S05 1.5L 2026,-17.544,-17.544,-17.544,0.094,3,11,False,1.0
+Toyota Corolla Cross,-17.431,Toyota Corolla Cross 2.0L 2026,-16.867,-20.929,-4.424,0.013,14,16,True,0.185
+Toyota Corolla,-12.105,Toyota Corolla 1.8L 2026,-15.022,-25.43,-10.288,0.001,4,32,True,0.011
+Hyundai Elantra,-22.893,Hyundai Elantra 1.6L 2026,-8.675,-23.133,15.831,0.538,11,3,False,1.0
+Li Auto L9,-9.3,Li Auto L9 1.5L 2025,-7.989,-12.44,-4.73,0.152,3,12,False,1.0
+Li Auto L7,-6.928,Li Auto L7 1.5L 2025,-4.841,-14.858,3.825,0.53,5,5,False,1.0
+Toyota RAV4,-24.15,Toyota RAV4 2.5L 2026,-2.621,-10.446,0.64,0.431,13,15,False,1.0
+Voyah Free,-2.614,Voyah Free 1.5L 2026,-2.614,-2.614,0.0,0.099,5,3,False,1.0
+ROX (Polar Stone) 01,-1.85,ROX (Polar Stone) 01 1.5L 2025,-1.85,-17.847,0.712,0.359,4,15,False,1.0
+BMW X7,-0.764,BMW X7 3.0L 2026,-0.764,-1.929,2.671,0.518,5,3,False,1.0
+Toyota Camry,-11.023,Toyota Camry 2.5L 2026,0.0,-3.882,24.722,1.0,9,11,False,1.0
+Toyota Land Cruiser,0.0,Toyota Land Cruiser 3.5L 2026,0.0,-5.968,0.343,1.0,4,3,False,1.0
+Voyah Taishan,0.434,Voyah Taishan 1.5L 2026,0.434,-13.472,7.108,0.974,8,6,False,1.0
+ZEEKR 8X,2.668,ZEEKR 8X 2.0L 2026,2.668,-12.376,35.731,0.513,3,5,False,1.0
+ZEEKR 9X,-5.717,ZEEKR 9X 2.0L 2026,10.28,10.28,45.844,0.373,4,3,False,1.0

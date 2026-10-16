@@ -1,0 +1,5 @@
+seller_type,promoted,median,size
+Official dealer,False,10.4,48
+Official dealer,True,5.0,104
+Other dealer,False,0.0,960
+Other dealer,True,0.0,404
